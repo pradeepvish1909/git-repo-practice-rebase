@@ -1,3 +1,7 @@
 This is file1 committed by GitHub Remote Repo!
 File modified by GitHub Repo!
+<<<<<<< HEAD
 File modified by Developer1!
+=======
+File again modified by GitHub Repo!
+>>>>>>> ebd018fff5083b7a410293923d265aad6ec96c38
